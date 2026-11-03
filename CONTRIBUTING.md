@@ -19,5 +19,3 @@ Welcome! This repository is for practising the open source workflow.
 - One Pull Request = one change.
 - Do not add phone numbers, emails or other personal details.
 - Be respectful in every comment.
-
-Click "Commit changes" (commit directly to main).
